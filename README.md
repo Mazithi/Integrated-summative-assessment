@@ -16,15 +16,13 @@ GitLab is all about giving you everything you need for DevOps, including some re
 
 GitHub is known for its huge open-source community and making it easy to work together on code with pull requests. 
 Both platforms are now packed with advanced features like CI/CD support which makes them super important for teams working on software projects around the globe.
-The way GitLab and GitHub have grown shows just how crucial they are in today’s software project
 
 
-
-GitHub-is a popular web-based platform used for version control and collaborators in software develpoment.
+GitHub - is a popular web-based platform used for version control and collaborators in software develpoment.
 It allows developers to store, share, and manage their code using Git.
 GitHUb is widely known for it's large open-sourcecommunity,integration with third-party tools.
 
-Gitlab-is another web-based platform that also uses Git for version control.
+Gitlab - is another web-based platform that also uses Git for version control.
 It provides similar features to github but is designed as all-in-one DevOps platform.
 GitLab includes built-in tools for issue tracking,continuous integration deployment and project management.
 
@@ -32,7 +30,9 @@ Investingating GITHUB AND GITLAB
 GitHub
 1.Pull request and code review
 Developers can collaborate, review, and suggest changes before merging code
+
 2.Github action-Continuous integration for automation
+
 3.Large community and market place
 Millions of open source respositories, plus extension and tools via github market place
 
