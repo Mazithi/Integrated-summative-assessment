@@ -4,6 +4,8 @@ https://www.google.com/search?q=unique+to+github&sca_esv=89fc9c58379db198&biw=15
 
 
 
+
+
 GitLab and GitHub have become big names in the world of software development, especially when it comes to keeping track of changes through version control.
 GitLab is all about giving you everything you need for DevOps, including some really handy project management tools.
 
@@ -55,6 +57,7 @@ Unique to GitHub:
 3. Hosts most of the world's punlic respository
 
 Unique to GitLab
+
 1.Self-hosting capability - Rubn GitLab on your own sever for private control
 2.All in-one DevOps platform
 More built-in project management and development tools without reading third-party apps
