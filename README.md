@@ -59,6 +59,7 @@ Unique to GitHub:
 Unique to GitLab
 
 1.Self-hosting capability - Rubn GitLab on your own sever for private control
+
 2.All in-one DevOps platform
 More built-in project management and development tools without reading third-party apps
 
